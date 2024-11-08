@@ -240,5 +240,19 @@
       "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFowT0hZU0FtVnVLQUFQAQ?hl=sl&gl=SI&ceid=SI%3Asl&oc=11",
       "https://www.reddit.com/r/Slovenia.rss"
     ]
+  },
+  "Sweden": {
+    "feeds": [
+      "https://www.svt.se/rss.xml",
+      "https://www.dn.se/rss/",
+      "https://www.di.se/rss/",
+      "https://www.svd.se/feed/articles.rss",
+      "https://www.tv4.se/rss",
+      "https://feeds.expressen.se/nyheter/",
+      "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
+      "https://www.dagen.se/arc/outboundfeeds/rss/",
+      "https://www.reddit.com/r/sweden.rss",
+      "https://www.reddit.com/r/svenskpolitik.rss"
+    ]
   }
 }
